@@ -1,3 +1,7 @@
+div.album {
+  background-color: #333 !important;
+}
+
 .jumbotron, .card-body, .container, .site-header{
     font-family: 'Raleway', serif !important;
 }
